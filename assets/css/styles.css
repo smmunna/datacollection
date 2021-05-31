@@ -1,0 +1,33 @@
+body {
+  background-image: inherit;
+}
+
+form {
+  border-radius: 31px;
+}
+
+.image-holder {
+  border-radius: 24px;
+  filter: drop-shadow(8px 8px 10px green);
+}
+
+form {
+  margin-top: 0px;
+}
+
+h1 {
+  width: 14%;
+  padding: 59px;
+  font-size: 22px;
+}
+
+p {
+  padding-top: 38px;
+  padding-left: 78px;
+  float: left;
+}
+
+input {
+  width: 17%;
+}
+
